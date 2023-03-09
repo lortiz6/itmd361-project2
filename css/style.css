@@ -273,10 +273,38 @@ strong{
 	color: #7b7b7b;
 }
 /*3rd page*/
-#intro{
-  display: flex;
+.intro{
+  display:  block;
   justify-content: center;
   text-align: center;
   font-family: 'Lexend Deca', sans-serif;
   font-size: 2.0vw; 
+  text-shadow: 2px 2px 4px rgba(236, 121, 238, 0.75);
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  align-items: stretch;
+  background-color: #ffcccc;
+  width: 90%;
+  margin: 0 auto;
+ font-family: 'Viga', sans-serif; 
+}
+.container > article {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,3.3);
+}
+.h3 {
+  padding: 10px;
+  margin: 0 -5px;
+}
+.h3 > article img{
+  max-width: 100%;
+}
+.h3 > img:hover{
+  transform: scale(1.1);
+}
+.h3 .p {
+  padding: 0 20px 20px;
 }
