@@ -22,6 +22,7 @@ strong{
 #top-navbar {
   font-family: 'Jazz LET, fantasy';
   font-size: 2em;
+	font-weight: bolder;
   background-color: #bbb0b0;
   overflow: hidden;
   width: 100%;
