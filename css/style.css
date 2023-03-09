@@ -126,34 +126,14 @@ strong{
 .fa{
 	color: #151b29;
 }
-.skills{
+.box{
 	margin-right: -20px;
 	    margin-bottom: 0px;
 }
-.skills li{
+.box li{
 	padding: 5px;
 }
-.skills li span{
-	color: #7b7b7b;
-}
-.certifications{
-	margin-right: -20px;
-	    margin-bottom: 0px;
-}
-.certifications li{
-	padding: 5px;
-}
-.certifications li span{
-	color: #7b7b7b;
-}
-.languages{
-	margin-right: -20px;
-	    margin-bottom: 0px;
-}
-.languages li{
-	padding: 5px;
-}
-.languages li span{
+.box li span{
 	color: #7b7b7b;
 }
 .p4{
