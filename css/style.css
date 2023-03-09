@@ -1,4 +1,4 @@
-/*for all three pages*/
+/*All pages*/
 body {
   background: #bebcbc;
 }
@@ -51,7 +51,9 @@ strong{
   text-decoration-color: #bbb0b0;
   text-decoration-thickness: 5px;
 }
-/*for second page*/
+/*1st page*/
+
+/*2nd page*/
 .page2{
 	margin: 0px;
 	padding: 0px;
@@ -140,3 +142,4 @@ strong{
 	font-size: 14px;
 	color: #7b7b7b;
 }
+/*3rd page*/
