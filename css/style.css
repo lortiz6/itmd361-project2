@@ -94,3 +94,12 @@ body{
 	margin: 0px;
 	margin-top: 10px;
 }
+.col-div-4{
+	width: 35%;
+	float: right;
+
+}
+.col-div-8{
+	width: 62%;
+	float: right;
+}
