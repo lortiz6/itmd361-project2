@@ -146,6 +146,16 @@ strong{
 .certifications li span{
 	color: #7b7b7b;
 }
+.languages{
+	margin-right: -20px;
+	    margin-bottom: 0px;
+}
+.languages li{
+	padding: 5px;
+}
+.languages li span{
+	color: #7b7b7b;
+}
 .p4{
 	font-size: 14px;
 	color: #7b7b7b;
