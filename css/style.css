@@ -1,6 +1,6 @@
 /*for all three pages*/
 body {
-  background: #DADED4;
+  background: #bebcbc;
 }
 
 h1, h2, h3, p{
@@ -13,6 +13,43 @@ h3{
 
 strong{
   font-weight: 900;
+}
+#main-navbar {
+  font-family: 'Lilita One', cursive;
+  font-size: 20px;
+  background-color: #bbb0b0;
+  overflow: hidden;
+  width: 100%;
+}
+#navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#main-navbar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#main-navbar ul li a:hover {
+  text-decoration: underline;
+  text-decoration-color: #bbb0b0;
+  text-decoration-thickness: 5px;
 }
 /*for second page*/
 body{
