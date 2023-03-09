@@ -110,3 +110,11 @@ body{
   margin-top: 30px;
   float:right;
 }
+.content-box{
+	padding: 20px;
+}
+.head{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
