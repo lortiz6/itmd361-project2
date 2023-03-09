@@ -1,3 +1,20 @@
+/*for all three pages*/
+body {
+  background: #DADED4;
+}
+
+h1, h2, h3, p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+  margin: 10px 0;
+}
+
+strong{
+  font-weight: 900;
+}
+/*for second page*/
 body{
 	margin: 0px;
 	padding: 0px;
