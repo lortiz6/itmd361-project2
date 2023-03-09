@@ -125,3 +125,13 @@ body{
 .fa{
 	color: #151b29;
 }
+.skills{
+	margin-right: -20px;
+	    margin-bottom: 0px;
+}
+.skills li{
+	padding: 5px;
+}
+.skills li span{
+	color: #7b7b7b;
+}
