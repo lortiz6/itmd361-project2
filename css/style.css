@@ -273,3 +273,10 @@ strong{
 	color: #7b7b7b;
 }
 /*3rd page*/
+#intro{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 2.0vw; 
+}
