@@ -298,6 +298,8 @@ strong{
 .h3 {
   padding: 10px;
   margin: 0 -5px;
+  justify-content: center;
+  text-align: center;
 }
 .h3 > article img{
   max-width: 100%;
