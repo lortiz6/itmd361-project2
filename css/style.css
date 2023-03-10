@@ -152,7 +152,7 @@ strong{
 }
 .vid-container > article {
   border: 1px solid #ccc;
-  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,3.3);
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.33);
 }
 .glow-border4 {
 	animation: animate 20s linear infinite;
@@ -295,7 +295,7 @@ strong{
 }
 .container > article {
   border: 1px solid #fa6fbb;
-  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,3.3);
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.33);
 }
 .h3 {
   padding: 10px;
