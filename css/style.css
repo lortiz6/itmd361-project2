@@ -116,6 +116,24 @@ strong{
 	z-index: 140;
   box-shadow: 0 0 5px #fff, 0 0 7px #fff, 0 0 9px #fff, 0 0 11px #33ccff, 0 0 25px #33ccff, 0 0 13px #33ccff, 0 0 15px #33ccff, 0 0 17px #33ccff;
 }
+.left{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: flex-end;
+}
+.center{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+}
+.right{
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: flex-end;
+}
 .vid-container > video {
   max-width: 20%;
   height: fit-content;
